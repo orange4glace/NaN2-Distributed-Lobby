@@ -1,0 +1,14 @@
+hash: 7ded9f1acccee3424eea81db34d8328dc6948be998ac59b63287d07061d8102c
+updated: 2017-07-21T23:28:43.172305307+09:00
+imports:
+- name: github.com/google/flatbuffers
+  version: d6f14b704fa14f797764223a31787b20c5e1e52f
+  subpackages:
+  - go
+- name: github.com/google/uuid
+  version: 064e2069ce9c359c118179501254f67d7d37ba24
+- name: github.com/orange4glace/go-prosumer
+  version: d5aee0f21d4d1352762ea8ee7cd368c587fe65ff
+- name: github.com/streadway/amqp
+  version: 2cbfe40c9341ad63ba23e53013b3ddc7989d801c
+testImports: []

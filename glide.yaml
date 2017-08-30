@@ -1,0 +1,9 @@
+package: github.com/orange4glace/distributed-lobby
+import:
+- package: github.com/streadway/amqp
+- package: github.com/google/flatbuffers
+  subpackages:
+  - go
+- package: github.com/google/uuid
+  version: ^0.2.0
+- package: github.com/orange4glace/go-prosumer
